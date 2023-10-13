@@ -52,6 +52,7 @@
         <a href=https://seintcat.itch.io/shothello>itch.io</a><br>
       </td>
 	    <td>
+        <a href=https://github.com/seintcat/CollegeProject3>Github repository</a><br>
         <a href=https://seintcat.itch.io/dot-exe-like-action-game-prototype>itch.io</a><br>
       </td>
 	</tr>
