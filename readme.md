@@ -80,17 +80,8 @@ B2B Digital content entertainment company<br>
       Exer Tetris<br>
     </td>
     <td>
-      <img src="https://github.com/seintcat/seintcat/assets/35403288/534a686a-cc85-423c-8aca-c1dd663ad267"/><br>
-      Exer Brickout<br>
-    </td>
-    <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/5fd70c5c-dea5-44d0-8e2e-8d6522eabbd0"/><br>
       Exer Hurdle, Exer Runner<br>
-    </td>
-    <td>
-      <img src="https://github.com/seintcat/seintcat/assets/35403288/bdf35614-c4d2-4089-af73-a6050564c81b"/><br>
-      Exer Rail<br>
-      (intermediate participation)<br>
     </td>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760"/><br>
@@ -101,24 +92,43 @@ B2B Digital content entertainment company<br>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerTetrisCable">Cable</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerTetrisBluetooth">Bluetooth</a><br>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerBrickOutCable">Cable</a><br>
-      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerBrickBluetooth">Bluetooth</a><br>
+      <a href="https://www.youtube.com/watch?v=KfAOyVYv_ag">Preview</a><br>
     </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerHurdleCable">Hurdle Cable</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerHurdleBluetooth2">Hurdle Bluetooth</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRunnerCable">Runner Cable</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRunnerBluetooth">Runner Bluetooth</a><br>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailCable">Cable</a><br>
-      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailBT">Bluetooth</a><br>
+      <a href="https://www.youtube.com/watch?v=RFkGW6bF_6A">Preview</a><br>
     </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerGalaxyCable">Cable</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerGalaxyBluetooth2">Bluetooth</a><br>
+      <a href="https://www.youtube.com/watch?v=Gs7AAYdmV3Q">Preview</a><br>
+    </td>
+  </tr>
+</table>
+<table border="1">
+  <tr>
+    <td>
+      <img src="https://github.com/seintcat/seintcat/assets/35403288/534a686a-cc85-423c-8aca-c1dd663ad267"/><br>
+      Exer Brickout<br>
+    </td>
+    <td>
+      <img src="https://github.com/seintcat/seintcat/assets/35403288/bdf35614-c4d2-4089-af73-a6050564c81b"/><br>
+      Exer Rail<br>
+      (intermediate participation)<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerBrickOutCable">Cable</a><br>
+      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerBrickBluetooth">Bluetooth</a><br>
+      <a href="https://www.youtube.com/watch?v=edN3r1Q-bKQ">Preview</a><br>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailCable">Cable</a><br>
+      <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailBT">Bluetooth</a><br>
     </td>
   </tr>
 </table>
