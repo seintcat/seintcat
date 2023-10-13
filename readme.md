@@ -5,4 +5,106 @@
 2023.07.10 Eteverslearning Unity bootcamp<br>
 <br>
 ## Gyeonggi University
-## FunFitStudio
+### Study
+<table border="1">
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/70ae1777-8aea-4320-9d86-315e2729cd00"/><br>
+        DIY Keybind Asset<br>
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/620a7c1b-6ff8-436a-8f77-ef31a8788e67"/><br>
+        Mincraft imitation<br>
+      </td>
+  </tr>
+	<tr>
+	    <td>
+        <a href=https://seintcat.itch.io/unity-diy-keybind-asset>itch.io</a><br>
+      </td>
+	    <td>
+        <a href=https://seintcat.itch.io/study-mincraft-stuff>itch.io</a><br>
+      </td>
+  </tr>
+</table>
+<h3>Projects</h3>
+<table border="1">
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/cbbfc38f-df55-4a38-82a2-56694fddb3f4"/><br>
+        Adventure game<br>
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/1711aa1c-b36e-4922-a219-154980d58550"/><br>
+        Shogi + Othello<br>
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/d06b8043-084c-435c-b28c-cf05886b303a"/><br>
+        .EXE Battle Network Like action game<br>
+      </td>
+	</tr>
+	<tr>
+	    <td>
+        <a href=https://github.com/seintcat/CollegeProject1>Github repository</a><br>
+        <a href=https://seintcat.itch.io/college-project>itch.io</a><br>
+      </td>
+	    <td>
+        <a href=https://github.com/seintcat/CollegeProject2>Github repository</a><br>
+        <a href=https://seintcat.itch.io/shothello>itch.io</a><br>
+      </td>
+	    <td>
+        <a href=https://seintcat.itch.io/dot-exe-like-action-game-prototype>itch.io</a><br>
+      </td>
+	</tr>
+</table>
+<br>
+<h2>FunFitStudio</h2>
+B2B Digital content entertainment company<br>
+<a href=https://github.com/FunAndFitStudio>Company git</a><br>
+<h3>Target device</h3>
+<table border="1">
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/0e17219b-5558-4550-b808-7d2d95903bb3"/><br>
+      </td>
+	    <td>
+        Android board<br>
+        DDR pad<br>
+      </td>
+  </tr>
+</table>
+<h3>Projects</h3>
+![1]()
+![2](https://github.com/seintcat/seintcat/assets/35403288/534a686a-cc85-423c-8aca-c1dd663ad267)
+![3](https://github.com/seintcat/seintcat/assets/35403288/5fd70c5c-dea5-44d0-8e2e-8d6522eabbd0)
+![4](https://github.com/seintcat/seintcat/assets/35403288/bdf35614-c4d2-4089-af73-a6050564c81b)
+![5](https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760)
+
+<table border="1">
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/8b34b1f2-d757-46b0-8ae3-f9a914dbdf2b"/><br>
+        Exer Tetris<br>
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/1711aa1c-b36e-4922-a219-154980d58550"/><br>
+        Shogi + Othello<br>
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/d06b8043-084c-435c-b28c-cf05886b303a"/><br>
+        .EXE Battle Network Like action game<br>
+      </td>
+	</tr>
+	<tr>
+	    <td>
+        <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerTetrisCable">Cable</a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerTetrisBluetooth">Bluetooth</a><br>
+      </td>
+	    <td>
+        <a href=https://github.com/seintcat/CollegeProject2>Github repository</a><br>
+        <a href=https://seintcat.itch.io/shothello>itch.io</a><br>
+      </td>
+	    <td>
+        <a href=https://seintcat.itch.io/dot-exe-like-action-game-prototype>itch.io</a><br>
+      </td>
+	</tr>
+</table>
