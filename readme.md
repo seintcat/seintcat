@@ -108,8 +108,6 @@ B2B Digital content entertainment company<br>
       <a href="https://www.youtube.com/watch?v=Gs7AAYdmV3Q">Preview</a><br>
     </td>
   </tr>
-</table>
-<table border="1">
   <tr>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/534a686a-cc85-423c-8aca-c1dd663ad267"/><br>
