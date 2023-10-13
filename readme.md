@@ -60,7 +60,7 @@
 <br>
 <h2>FunFitStudio</h2>
 B2B Digital content entertainment company<br>
-<a href=https://github.com/FunAndFitStudio>Company git</a><br>
+<a href=https://github.com/FunAndFitStudio>Company git(private)</a><br>
 <h3>Target device</h3>
 <table border="1">
 	<tr>
