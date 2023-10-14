@@ -59,6 +59,11 @@ B2B Digital content entertainment company<br>
       Exer Rail<br>
       (intermediate participation)<br>
     </td>
+    <td>
+      <img src="https://github.com/seintcat/seintcat/assets/35403288/a1db4361-1a5c-454a-8b70-faf6703f2b52"/><br>
+      Exer Base Project<br>
+	    (Company Asset)<br>
+    </td>
   </tr>
   <tr>
     <td>
@@ -69,6 +74,10 @@ B2B Digital content entertainment company<br>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailCable">Cable</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.FunFitStudio.ExerRailBT">Bluetooth</a><br>
+    </td>
+    <td>
+	    <a href="https://github.com/seintcat/Docs_ExerBoard/tree/main">Docs</a><br>
+	    (Project is private)<br>
     </td>
   </tr>
 </table>
