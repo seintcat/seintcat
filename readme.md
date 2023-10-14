@@ -6,7 +6,7 @@ B2B Digital content entertainment company<br>
 <table border="1">
 	<tr>
 	    <td>
-        <img src="https://github.com/seintcat/seintcat/assets/35403288/0e17219b-5558-4550-b808-7d2d95903bb3"/><br>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/d8f71772-cf95-4b43-9c21-2ba10f9bc446"/><br>
       </td>
 	    <td>
         Android board<br>
