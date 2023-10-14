@@ -1,9 +1,4 @@
 # Seintcat
-2017.02.28 ~ 2020.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
-2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
-2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
-2023.07.10 Eteverslearning Unity bootcamp<br>
-<br>
 <h2>FunFitStudio</h2>
 B2B Digital content entertainment company<br>
 <a href=https://github.com/FunAndFitStudio>Company git(private)</a><br>
@@ -131,4 +126,13 @@ B2B Digital content entertainment company<br>
       </td>
 	</tr>
 </table>
+<br>
+<h2>TimeLine</h2>
+<h3>Work</h3>
+2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
+<br>
+<h3>Education</h3>
+2023.07.10 Eteverslearning Unity bootcamp<br>
+2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
+2017.02.28 ~ 2020.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
