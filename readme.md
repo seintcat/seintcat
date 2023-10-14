@@ -24,10 +24,14 @@ B2B Digital content entertainment company<br>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/5fd70c5c-dea5-44d0-8e2e-8d6522eabbd0"/><br>
       Exer Hurdle, Exer Runner<br>
+	     - Use spline<br>
+	     - Guardrail ads with StreamingAssets<br>
+	     - Animation events<br>
     </td>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760"/><br>
       Exer Galaxy<br>
+	     - Shadergraph<br>
     </td>
   </tr>
   <tr>
@@ -63,6 +67,7 @@ B2B Digital content entertainment company<br>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/a1db4361-1a5c-454a-8b70-faf6703f2b52"/><br>
       Exer Base Project<br>
 	    (Company Asset)<br>
+	     - Rank system with PlayerPrefs<br>
     </td>
   </tr>
   <tr>
@@ -89,10 +94,12 @@ B2B Digital content entertainment company<br>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/70ae1777-8aea-4320-9d86-315e2729cd00"/><br>
         DIY Keybind Asset<br>
+		    (Discontinued, Unity made InputSystem)<br>
       </td>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/620a7c1b-6ff8-436a-8f77-ef31a8788e67"/><br>
         Mincraft imitation<br>
+		     - Make Mesh with C#<br>
       </td>
   </tr>
 	<tr>
@@ -110,6 +117,7 @@ B2B Digital content entertainment company<br>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/cbbfc38f-df55-4a38-82a2-56694fddb3f4"/><br>
         Adventure game<br>
+		     - Upgrade Unity JsonUtility(save T array)<br>
       </td>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/1711aa1c-b36e-4922-a219-154980d58550"/><br>
@@ -118,6 +126,7 @@ B2B Digital content entertainment company<br>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/d06b8043-084c-435c-b28c-cf05886b303a"/><br>
         .EXE Battle Network Like action game<br>
+		     - Use SQLite
       </td>
 	</tr>
 	<tr>
