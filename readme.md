@@ -27,6 +27,7 @@ B2B Digital content entertainment company<br>
 	     - Use spline<br>
 	     - Guardrail ads with StreamingAssets<br>
 	     - Animation events<br>
+	     - Scene fader with render texture<br>
     </td>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760"/><br>
