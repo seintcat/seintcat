@@ -1,4 +1,20 @@
 # Seintcat
+<h2>Eteverslearning bootcamp</h2>
+<table border="1">
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
+		    Blind_Billiards<br>
+		     - TCP/IP multyplayer<br>
+		     - Simple string packet system<br>
+      </td>
+  </tr>
+	<tr>
+	    <td>
+		    <a href=https://github.com/rasedole/Blind_Billiards>Github repository</a><br>
+      </td>
+  </tr>
+</table>
 <h2>FunFitStudio</h2>
 B2B Digital content entertainment company<br>
 <a href=https://github.com/FunAndFitStudio>Company git(private)</a><br>
@@ -28,7 +44,6 @@ B2B Digital content entertainment company<br>
 	     - Guardrail ads with StreamingAssets<br>
 	     - Animation events<br>
 	     - Scene fader with render texture<br>
-    </td>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760"/><br>
       Exer Galaxy<br>
@@ -84,6 +99,13 @@ B2B Digital content entertainment company<br>
     <td>
 	    <a href="https://github.com/seintcat/Docs_ExerBoard/tree/main">Docs</a><br>
 	    (Project is private)<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/seintcat/seintcat/assets/35403288/76ee167f-853c-4fe3-819c-ffde795963ad"/><br>
+      Exer Walking openworld<br>
+	    (private project)<br>
     </td>
   </tr>
 </table>
@@ -162,5 +184,5 @@ B2B Digital content entertainment company<br>
 <a href="https://github.com/seintcat/Unity_SimpleBarSystem">(Unity) Simple bar system</a><br>
 <a href="https://github.com/seintcat/Unity_AtlasPacker">(Unity) Atlas packer</a><br>
 <a href="https://github.com/seintcat/Unity_ObjectPoolingManager">(Unity) Object pooling manager</a><br>
-<a href="https://github.com/seintcat/Unity_SimpleFadeUI/tree/main"></a>(Unity) Fade UI<br>
+<a href="https://github.com/seintcat/Unity_SimpleFadeUI/tree/main">(Unity) Fade UI</a><br>
 <a href=""></a><br>
