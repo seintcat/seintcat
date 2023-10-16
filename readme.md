@@ -46,8 +46,9 @@ B2B Digital content entertainment company<br>
 	     - Scene fader with render texture<br>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/aa667cae-66b3-4049-af63-c9d44f28a760"/><br>
-      Exer Galaxy<br>
+      Exer Galaxy(1945 like shooter)<br>
 	     - Shadergraph<br>
+	     - Game mechanic<br>
     </td>
   </tr>
   <tr>
