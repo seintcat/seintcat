@@ -40,7 +40,7 @@ B2B Digital content entertainment company<br>
     <td>
       <img src="https://github.com/seintcat/seintcat/assets/35403288/5fd70c5c-dea5-44d0-8e2e-8d6522eabbd0"/><br>
       Exer Hurdle, Exer Runner<br>
-	     - Use spline<br>
+	     - Use spline(camera, run track)<br>
 	     - Guardrail ads with StreamingAssets<br>
 	     - Animation events<br>
 	     - Scene fader with render texture<br>
