@@ -8,10 +8,18 @@
 		     - TCP/IP multyplayer<br>
 		     - Simple string packet system<br>
       </td>
+	    <td>
+        <img src="https://avatars.githubusercontent.com/u/141388428"/><br>
+		    WhiteChapel<br>
+		    - Scene loading fade
+      </td>
   </tr>
 	<tr>
 	    <td>
 		    <a href=https://github.com/rasedole/Blind_Billiards>Github repository</a><br>
+      </td>
+	    <td>
+		    <a href=https://github.com/TeamWhiteChapel/WhiteChapel>Github repository</a><br>
       </td>
   </tr>
 </table>
