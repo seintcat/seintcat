@@ -17,6 +17,7 @@
 	<tr>
 	    <td>
 		    <a href=https://github.com/rasedole/Blind_Billiards>Github repository</a><br>
+      <a href="https://www.youtube.com/watch?v=Yaoo-feN9Fk">Preview</a><br>
       </td>
 	    <td>
 		    <a href=https://github.com/TeamWhiteChapel/WhiteChapel>Github repository</a><br>
@@ -165,6 +166,7 @@ B2B Digital content entertainment company<br>
 	    <td>
         <a href=https://github.com/seintcat/CollegeProject1>Github repository</a><br>
         <a href=https://seintcat.itch.io/college-project>itch.io</a><br>
+      <a href="https://www.youtube.com/watch?v=jkRhfK9wDwg">Preview</a><br>
       </td>
 	    <td>
         <a href=https://github.com/seintcat/CollegeProject2>Github repository</a><br>
@@ -173,6 +175,7 @@ B2B Digital content entertainment company<br>
 	    <td>
         <a href=https://github.com/seintcat/CollegeProject3>Github repository</a><br>
         <a href=https://seintcat.itch.io/dot-exe-like-action-game-prototype>itch.io</a><br>
+      <a href="https://www.youtube.com/watch?v=uS7GEj38y8A">Preview</a><br>
       </td>
 	</tr>
 </table>
