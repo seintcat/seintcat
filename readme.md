@@ -1,6 +1,6 @@
 # Seintcat
 <h2>Eteverslearning bootcamp</h2>
-<table border="1">
+<table border="1"> 
 	<tr>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
@@ -13,6 +13,14 @@
 		    WhiteChapel<br>
 		    - Scene loading fade
       </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/00fbd374-f709-4835-94f8-286ee091f21f"/><br>
+		    Roguelight SpeedRun 20days<br>
+		    - FSM<br>
+		    - Program modeling<br>
+		    - Weapon option, changing outfit system<br>
+		    - SQLite<br>
+      </td>
   </tr>
 	<tr>
 	    <td>
@@ -21,6 +29,11 @@
       </td>
 	    <td>
 		    <a href=https://github.com/TeamWhiteChapel/WhiteChapel>Github repository</a><br>
+      </td>
+	    <td>
+		    <a href=https://github.com/Team-Surge-EteversLearning/RoguelightSpeedRun20D>Github repository</a><br>
+		    <a href="https://www.youtube.com/watch?v=pw5KXo5sI7o">Preview</a><br>
+        <a href=https://seintcat.itch.io/roguelightspeedrun>itch.io</a><br>
       </td>
   </tr>
 </table>
