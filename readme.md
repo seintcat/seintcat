@@ -200,7 +200,7 @@ B2B Digital content entertainment company<br>
 <h3>Education</h3>
 2023.07.10 Eteverslearning Unity bootcamp<br>
 2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
-2017.02.28 ~ 2020.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
+2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
 <h2>Tools & Utils</h2>
 <a href="https://github.com/seintcat/Unity_URP_LedDisplay_Shadergraph">(URP) Led display shadergraph</a><br>
