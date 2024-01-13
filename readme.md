@@ -198,7 +198,7 @@ B2B Digital content entertainment company<br>
 2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
 <br>
 <h3>Education</h3>
-2023.07.10 ~ 2023.01.04 Eteverslearning Unity bootcamp<br>
+2023.07.10 ~ 2024.01.04 Eteverslearning Unity bootcamp<br>
 2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
 2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
