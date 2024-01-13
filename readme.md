@@ -194,6 +194,7 @@ B2B Digital content entertainment company<br>
 </table>
 <br>
 <h2>TimeLine</h2>
+<img src="https://github.com/seintcat/seintcat/assets/35403288/b45cafc8-9c83-48c4-b71e-3a6fbdbbef95"/><br>
 <h3>Work</h3>
 2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
 <br>
