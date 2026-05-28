@@ -1,4 +1,14 @@
 # Seintcat
+<h2>TimeLine</h2>
+<img src="https://github.com/seintcat/seintcat/assets/35403288/b45cafc8-9c83-48c4-b71e-3a6fbdbbef95"/><br>
+<h3>Work</h3>
+2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
+<br>
+<h3>Education</h3>
+2023.07.10 ~ 2024.01.04 Eteverslearning Unity bootcamp<br>
+2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
+2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
+<br>
 <h2>Eteverslearning bootcamp</h2>
 <table border="1"> 
 	<tr>
@@ -192,16 +202,6 @@ B2B Digital content entertainment company<br>
       </td>
 	</tr>
 </table>
-<br>
-<h2>TimeLine</h2>
-<img src="https://github.com/seintcat/seintcat/assets/35403288/b45cafc8-9c83-48c4-b71e-3a6fbdbbef95"/><br>
-<h3>Work</h3>
-2022.11.23 ~ 2023.07.07 FunFitStudio(Kor) Game developer<br>
-<br>
-<h3>Education</h3>
-2023.07.10 ~ 2024.01.04 Eteverslearning Unity bootcamp<br>
-2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
-2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
 <h2>Tools & Utils</h2>
 <a href="https://github.com/seintcat/Unity_URP_LedDisplay_Shadergraph">(URP) Led display shadergraph</a><br>
