@@ -55,12 +55,12 @@
 	</tr>
 	<tr>
 	    <td>
-		<img src="https://github.com/user-attachments/assets/665ce8b4-6729-4ab4-b7ff-77daab269649"/><br>
+		<img width="306" height="207" src="https://github.com/user-attachments/assets/665ce8b4-6729-4ab4-b7ff-77daab269649"/><br>
 			XRsafe(VR)<br>
 			 - <br>
     	</td>
 	    <td>
-		<img src="https://github.com/user-attachments/assets/aff62c1f-a2bf-44c8-bfcf-2a3f2af0aa29"/><br>
+		<img width="265" height="157" src="https://github.com/user-attachments/assets/aff62c1f-a2bf-44c8-bfcf-2a3f2af0aa29"/><br>
 			Unreal Car VR R&D<br>
 			 - Static Mesh to Skeletal Mesh<br>
 			 - Unreal Nanaite R&D<br>
