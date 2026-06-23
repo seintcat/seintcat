@@ -74,6 +74,7 @@
 			Unreal Car Configurator<br>
 		     - Project Refactoring<br>
 		     - Blueprint<br>
+		     - Fix dead project(Plugin crash)<br>
     	</td>
 	</tr>
 	<tr>
@@ -82,11 +83,14 @@
 			Blender Addon<br>
 		     - Python<br>
 		     - Vertex Color to Corner Color<br>
+		     - GLB Import<br>
     	</td>
 	    <td>
 			Embargo Mechanic Education(PC, Web, Android)<br>
-		     - Python<br>
-		     - Vertex Color to Corner Color<br>
+		     - Stencil Shader<br>
+		     - Camera Arm<br>
+		     - Billboard<br>
+		     - <br>
     	</td>
 	</tr>
 </table>
