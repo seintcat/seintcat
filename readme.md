@@ -22,6 +22,10 @@
  - Postman<br>
  - WebGPU, WebAssembly R&D<br>
  - CMake<br>
+ - FFMpeg<br>
+ - Figma<br>
+ - Blender<br>
+ - Medibang paint<br>
 <h3>Projects(Private)</h3>
 <table border="1"> 
 	<tr>
@@ -71,10 +75,15 @@
     	</td>
 	    <td>
 		<img width="255" height="95" src="https://github.com/user-attachments/assets/c8df7e46-01e9-48d6-80e0-ae7974b5cbe1"/><br>
-			Unreal Car Configurator<br>
+			Embargo Unreal Car Configurator(PC)<br>
 		     - Project Refactoring<br>
 		     - Blueprint<br>
 		     - Fix dead project(Plugin crash)<br>
+		     - Screenshot, Movie Render Queue<br>
+		     - GLB / GLTF Import, Export<br>
+			 - Auto Mesh Lowpoly Pipeline R&D<br>
+			 - Shader to GLB / GLTF R&D<br>
+			 - Lazy loading<br>
     	</td>
 	</tr>
 	<tr>
@@ -83,14 +92,18 @@
 			Blender Addon<br>
 		     - Python<br>
 		     - Vertex Color to Corner Color<br>
-		     - GLB Import<br>
+		     - GLB / GLTF Import, Export<br>
     	</td>
 	    <td>
 			Embargo Mechanic Education(PC, Web, Android)<br>
 		     - Stencil Shader<br>
 		     - Camera Arm<br>
 		     - Billboard<br>
-		     - <br>
+		     - Scenario Core<br>
+		     - Class Serialize to Clipboard<br>
+		     - Addressable<br>
+		     - Data Validation Tool<br>
+		     - Pixyz Plugin<br>
     	</td>
 	</tr>
 </table>
