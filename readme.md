@@ -27,7 +27,7 @@
 		     - <br>
     	</td>
 	    <td>
-        <img width="640" height="400" src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
+        <img width="320" height="200" src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
 		    3DS Max<br>
 		    - Car model option migration<br>
 		    - <br>
