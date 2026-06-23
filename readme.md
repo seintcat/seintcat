@@ -15,14 +15,14 @@
  - Unity, Unreal shadergraph<br>
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
- - 
 <table border="1"> 
 	<tr>
 	    <td>
-        <img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
-			Blind_Billiards<br>
-		     - TCP/IP multyplayer<br>
-		     - Simple string packet system<br>
+        <img src="https://github.com/user-attachments/assets/d8ee4923-6d3d-4d5d-829e-a7875a762d60"/><br>
+			Metaverse education project(PC)<br>
+		     - Nakama R&D(Network sync framework)<br>
+			 - Zegocloud Render Texture R&D<br>
+		     - <br>
     	</td>
 	    <td>
         <img src="https://avatars.githubusercontent.com/u/141388428"/><br>
