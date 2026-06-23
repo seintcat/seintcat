@@ -10,6 +10,45 @@
 2022.02.28 ~ 2023.02.27 Gyeonggi University of Science and Technology(Bachelor Degree)<br>
 2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
+<h2>Inventis</h2>
+<img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
+<table border="1"> 
+	<tr>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
+		    Blind_Billiards<br>
+		     - TCP/IP multyplayer<br>
+		     - Simple string packet system<br>
+      </td>
+	    <td>
+        <img src="https://avatars.githubusercontent.com/u/141388428"/><br>
+		    WhiteChapel<br>
+		    - Scene loading fade
+      </td>
+	    <td>
+        <img src="https://github.com/seintcat/seintcat/assets/35403288/00fbd374-f709-4835-94f8-286ee091f21f"/><br>
+		    Roguelight SpeedRun 20days<br>
+		    - FSM<br>
+		    - Program modeling<br>
+		    - Weapon option, changing outfit system<br>
+		    - SQLite<br>
+      </td>
+  </tr>
+	<tr>
+	    <td>
+		    <a href=https://github.com/rasedole/Blind_Billiards>Github repository</a><br>
+      <a href="https://www.youtube.com/watch?v=Yaoo-feN9Fk">Preview</a><br>
+      </td>
+	    <td>
+		    <a href=https://github.com/TeamWhiteChapel/WhiteChapel>Github repository</a><br>
+      </td>
+	    <td>
+		    <a href=https://github.com/Team-Surge-EteversLearning/RoguelightSpeedRun20D>Github repository</a><br>
+		    <a href="https://www.youtube.com/watch?v=pw5KXo5sI7o">Preview</a><br>
+        <a href=https://seintcat.itch.io/roguelightspeedrun>itch.io</a><br>
+      </td>
+  </tr>
+</table>
 <h2>Eteverslearning bootcamp</h2>
 <table border="1"> 
 	<tr>
