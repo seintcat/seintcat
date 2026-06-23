@@ -12,8 +12,8 @@
 <br>
 <h2>Inventis</h2>
 <img src="https://github.com/user-attachments/assets/ffcd4f6c-f7e4-4fad-bfa7-f7e743086728"/><br>
- - Unreal Nanaite R&D<br>
- - Unity, Unreal shadergraph<br>
+ - Unity, Unreal Shadergraph<br>
+ - Unity, Unreal Profiler<br>
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
  - Unity NavMesh<br>
@@ -22,7 +22,7 @@
  - Postman<br>
  - WebGPU, WebAssembly R&D<br>
  - CMake<br>
-<h3>Projects</h3>
+<h3>Projects(Private)</h3>
 <table border="1"> 
 	<tr>
 	    <td>
@@ -36,13 +36,13 @@
 			 - Moodle R&D<br>
 		     - GLB to 3DS Max import<br>
 		     - Project Refactoring<br>
+		     - PlayCanvas<br>
     	</td>
 	    <td>
         <img width="320" height="200" src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
 		    3DS Max<br>
 		    - Car model option migration tool<br>
 			(Scene Hierarchy)<br>
-		    - <br>
     	</td>
 	    <td>
         <img src="https://github.com/user-attachments/assets/09c54b0c-a217-4666-ab9a-c8b489d6b901"/><br>
@@ -50,16 +50,22 @@
 		    - Google OAuth2<br>
 		    - Dynamic loading<br>
 		    - CORS Access-Control-Allow-Origin<br>
-		    - <br>
+		    - AWS Bucket<br>
     	</td>
 	</tr>
 	<tr>
 	    <td>
-		    <a href=https://github.com/rasedole/Blind_Billiards>Github repository</a><br>
-      		<a href="https://www.youtube.com/watch?v=Yaoo-feN9Fk">Preview</a><br>
+		<img src="https://github.com/user-attachments/assets/665ce8b4-6729-4ab4-b7ff-77daab269649"/><br>
+			XRsafe(VR)<br>
+			 - <br>
     	</td>
 	    <td>
-		    <a href=https://github.com/TeamWhiteChapel/WhiteChapel>Github repository</a><br>
+		<img src="https://github.com/user-attachments/assets/aff62c1f-a2bf-44c8-bfcf-2a3f2af0aa29"/><br>
+			Unreal Car VR R&D<br>
+			 - Static Mesh to Skeletal Mesh<br>
+			 - Unreal Nanaite R&D<br>
+			 - Unreal Lumen R&D<br>
+			 - Unreal Ray Tracing R&D<br>
     	</td>
 	    <td>
 		    <a href=https://github.com/Team-Surge-EteversLearning/RoguelightSpeedRun20D>Github repository</a><br>
