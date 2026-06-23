@@ -11,7 +11,7 @@
 2017.02.28 ~ 2022.02.03 Gyeonggi University of Science and Technology(Associate Degree)<br>
 <br>
 <h2>Inventis</h2>
-<img src="https://github.com/seintcat/seintcat/assets/35403288/015c089f-2961-4e95-8ea9-8ad450622dee"/><br>
+<img src="https://github.com/user-attachments/assets/ffcd4f6c-f7e4-4fad-bfa7-f7e743086728"/><br>
 <table border="1"> 
 	<tr>
 	    <td>
