@@ -15,6 +15,8 @@
  - Unity, Unreal shadergraph<br>
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
+ - Ready Player Me Avatar<br>
+ - GLB / GLTF<br>
 <table border="1"> 
 	<tr>
 	    <td>
@@ -29,7 +31,7 @@
 	    <td>
         <img width="320" height="200" src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
 		    3DS Max<br>
-		    - Car model option migration<br>
+		    - Car model option migration tool(Scene Hierarchy)<br>
 		    - <br>
     	</td>
 	    <td>
