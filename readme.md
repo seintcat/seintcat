@@ -63,23 +63,31 @@
 		<img width="265" height="157" src="https://github.com/user-attachments/assets/aff62c1f-a2bf-44c8-bfcf-2a3f2af0aa29"/><br>
 			Unreal Car VR R&D<br>
 			 - Static Mesh to Skeletal Mesh<br>
-			 - Unreal Nanaite R&D<br>
-			 - Unreal Lumen R&D<br>
-			 - Unreal Ray Tracing R&D<br>
+			 - Nanaite R&D<br>
+			 - Lumen R&D<br>
+			 - Ray Tracing R&D<br>
+			 - Passthrough R&D<br>
+		     - Graphic API R&D<br>
     	</td>
 	    <td>
 		<img width="255" height="95" src="https://github.com/user-attachments/assets/c8df7e46-01e9-48d6-80e0-ae7974b5cbe1"/><br>
 			Unreal Car Configurator<br>
 		     - Project Refactoring<br>
-		     - Unreal Blueprint<br>
+		     - Blueprint<br>
     	</td>
 	</tr>
 	<tr>
 	    <td>
 		<img width="313" height="256" src="https://github.com/user-attachments/assets/9691b58d-5f2c-4bdf-bd39-79fce86dbaed"/><br>
 			Blender Addon<br>
-		     - <br>
-		     - <br>
+		     - Python<br>
+		     - Vertex Color to Corner Color<br>
+    	</td>
+	    <td>
+		<img width="313" height="256" src="https://github.com/user-attachments/assets/9691b58d-5f2c-4bdf-bd39-79fce86dbaed"/><br>
+			Embargo Mechanic Education(PC, Web, Android)<br>
+		     - Python<br>
+		     - Vertex Color to Corner Color<br>
     	</td>
 	</tr>
 </table>
