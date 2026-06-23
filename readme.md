@@ -84,7 +84,6 @@
 		     - Vertex Color to Corner Color<br>
     	</td>
 	    <td>
-		<img width="313" height="256" src="https://github.com/user-attachments/assets/9691b58d-5f2c-4bdf-bd39-79fce86dbaed"/><br>
 			Embargo Mechanic Education(PC, Web, Android)<br>
 		     - Python<br>
 		     - Vertex Color to Corner Color<br>
