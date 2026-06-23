@@ -22,12 +22,15 @@
 			Metaverse education project(PC)<br>
 		     - Nakama R&D(Network sync framework)<br>
 			 - Zegocloud Render Texture R&D<br>
+		     - WebGL IME(Input Method Editor)<br>
+		     - <br>
 		     - <br>
     	</td>
 	    <td>
-        <img src="https://avatars.githubusercontent.com/u/141388428"/><br>
-		    WhiteChapel<br>
-		    - Scene loading fade
+        <img src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
+		    3DS Max<br>
+		    - Car model option migration<br>
+		    - <br>
     	</td>
 	    <td>
         <img src="https://github.com/seintcat/seintcat/assets/35403288/00fbd374-f709-4835-94f8-286ee091f21f"/><br>
