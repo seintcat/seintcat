@@ -76,10 +76,10 @@
 	</tr>
 	<tr>
 	    <td>
-		<img width="255" height="95" src="https://github.com/user-attachments/assets/c8df7e46-01e9-48d6-80e0-ae7974b5cbe1"/><br>
-			Unreal Car Configurator<br>
-		     - Project Refactoring<br>
-		     - Unreal Blueprint<br>
+		<img width="313" height="256" src="https://github.com/user-attachments/assets/9691b58d-5f2c-4bdf-bd39-79fce86dbaed"/><br>
+			Blender Addon<br>
+		     - <br>
+		     - <br>
     	</td>
 	</tr>
 </table>
