@@ -12,6 +12,10 @@
 <br>
 <h2>Inventis</h2>
 <img src="https://github.com/user-attachments/assets/ffcd4f6c-f7e4-4fad-bfa7-f7e743086728"/><br>
+ - Unity, Unreal shadergraph<br>
+ - Unity Mesh Baking<br>
+ - Unity Casteljau Bezier path spline editor<br>
+ - 
 <table border="1"> 
 	<tr>
 	    <td>
