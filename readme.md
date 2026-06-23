@@ -15,8 +15,10 @@
  - Unity, Unreal shadergraph<br>
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
- - Ready Player Me Avatar<br>
+ - Unity NavMesh<br>
  - GLB / GLTF<br>
+ - Postman<br>
+<h3>Projects</h3>
 <table border="1"> 
 	<tr>
 	    <td>
@@ -25,7 +27,9 @@
 		     - Nakama R&D(Network sync framework)<br>
 			 - Zegocloud Render Texture R&D<br>
 		     - WebGL IME(Input Method Editor)<br>
-		     - <br>
+			 - Ready Player Me Avatar R&D<br>
+			 - Moodle R&D<br>
+		     - GLB to 3DS Max import<br>
 		     - <br>
     	</td>
 	    <td>
