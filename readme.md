@@ -12,36 +12,40 @@
 <br>
 <h2>Inventis</h2>
 <img src="https://github.com/user-attachments/assets/ffcd4f6c-f7e4-4fad-bfa7-f7e743086728"/><br>
+ - Unreal Nanaite R&D<br>
  - Unity, Unreal shadergraph<br>
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
  - Unity NavMesh<br>
  - GLB / GLTF<br>
  - Postman<br>
+ - WebGPU, WebAssembly R&D<br>
+ - CMake<br>
 <h3>Projects</h3>
 <table border="1"> 
 	<tr>
 	    <td>
         <img src="https://github.com/user-attachments/assets/d8ee4923-6d3d-4d5d-829e-a7875a762d60"/><br>
-			Metaverse education project(PC)<br>
+			Mychool Metaverse education project(PC)<br>
 		     - Nakama R&D<br>
-			   (Network sync framework)<br>
+			 (Network sync framework)<br>
 			 - Zegocloud Render Texture R&D<br>
 		     - WebGL IME(Input Method Editor)<br>
 			 - Ready Player Me Avatar R&D<br>
 			 - Moodle R&D<br>
 		     - GLB to 3DS Max import<br>
-		     - <br>
+		     - Project Refactoring<br>
     	</td>
 	    <td>
         <img width="320" height="200" src="https://github.com/user-attachments/assets/e98bc990-ed0c-4240-bb60-7d6862e8b7f3"/><br>
 		    3DS Max<br>
-		    - Car model option migration tool(Scene Hierarchy)<br>
+		    - Car model option migration tool<br>
+			(Scene Hierarchy)<br>
 		    - <br>
     	</td>
 	    <td>
-        <img src="https://github.com/seintcat/seintcat/assets/35403288/00fbd374-f709-4835-94f8-286ee091f21f"/><br>
-		    Roguelight SpeedRun 20days<br>
+        <img src="https://github.com/user-attachments/assets/09c54b0c-a217-4666-ab9a-c8b489d6b901"/><br>
+		    <br>
 		    - FSM<br>
 		    - Program modeling<br>
 		    - Weapon option, changing outfit system<br>
