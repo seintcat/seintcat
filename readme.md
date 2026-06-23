@@ -24,7 +24,8 @@
 	    <td>
         <img src="https://github.com/user-attachments/assets/d8ee4923-6d3d-4d5d-829e-a7875a762d60"/><br>
 			Metaverse education project(PC)<br>
-		     - Nakama R&D(Network sync framework)<br>
+		     - Nakama R&D<br>
+			   (Network sync framework)<br>
 			 - Zegocloud Render Texture R&D<br>
 		     - WebGL IME(Input Method Editor)<br>
 			 - Ready Player Me Avatar R&D<br>
