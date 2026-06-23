@@ -17,6 +17,7 @@
  - Unity Mesh Baking<br>
  - Unity Casteljau Bezier path spline editor<br>
  - Unity NavMesh<br>
+ - Unity Addressable<br>
  - GLB / GLTF<br>
  - Postman<br>
  - WebGPU, WebAssembly R&D<br>
@@ -45,11 +46,11 @@
     	</td>
 	    <td>
         <img src="https://github.com/user-attachments/assets/09c54b0c-a217-4666-ab9a-c8b489d6b901"/><br>
-		    <br>
-		    - FSM<br>
-		    - Program modeling<br>
-		    - Weapon option, changing outfit system<br>
-		    - SQLite<br>
+		    H2MEET(Web, Android)<br>
+		    - Google OAuth2<br>
+		    - Dynamic loading<br>
+		    - CORS Access-Control-Allow-Origin<br>
+		    - <br>
     	</td>
 	</tr>
 	<tr>
